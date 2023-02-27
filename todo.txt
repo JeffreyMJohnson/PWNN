@@ -1,0 +1,12 @@
+todo
+
+create dotnet sln - PWNN
+
+in sln folder:
+    create dotnet core library - Landlord
+        
+    create nunit test project - Landlord.Tests.Unit
+
+    write first test:
+        should connect to tenant and return success
+git?
